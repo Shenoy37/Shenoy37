@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,SQL,Hadoop,Apache Spark**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shenoy37?tab=repositories](https://github.com/Shenoy37?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Shenoy37](https://github.com/Shenoy37?tab=repositories)
 
 - 💬 Ask me about **Python,SQL,Tableau,PowerBI,Microsoft Excel**
 
