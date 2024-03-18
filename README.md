@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shenoy37/](https://github.com/Shenoy37?tab=repositories)
 
-- 💬 Ask me about **Python,SQL,Tableau,PowerBI,Microsoft Excel**
+- 💬 Ask me about **Python, SQL, Database, Tableau, PowerBI, Microsoft Excel**
 
 - 📫 How to reach me **sidshe37@gmail.com**
 
