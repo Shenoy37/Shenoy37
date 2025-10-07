@@ -1,9 +1,6 @@
 <h1 align="center">Hey there👋, I'm Siddharth Shenoy</h1>
-<h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenoy37&label=Profile%20views&color=0e75b6&style=flat" alt="shenoy37" /> </p>
-
-- 🔭 I’m currently working on **Real Estate Rent Analysis**
 
 - 🌱 I’m currently learning **Python,SQL,Hadoop,Apache Spark**
 
