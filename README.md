@@ -2,17 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenoy37&label=Profile%20views&color=0e75b6&style=flat" alt="shenoy37" /> </p>
 
-- 🌱 I’m currently learning **Python,SQL,Hadoop,Apache Spark**
+- 🌱 I’m am Risk Consultant, currently learning full stack development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shenoy37/](https://github.com/Shenoy37?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, Database, Tableau, PowerBI, Microsoft Excel**
-
 - 📫 How to reach me **sidshe37@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dt9zWNAoNuc-C8k1cR1WFgX2WrtiKmmB/view?usp=drivesdk](https://drive.google.com/file/d/1dt9zWNAoNuc-C8k1cR1WFgX2WrtiKmmB/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think I am funny**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dt9zWNAoNuc-C8k1cR1WFgX2WrtiKmmB/view?usp=drivesdk](https://drive.google.com/file/d/1dt9zWNAoNuc-C8k1cR1WFgX2WrtiKmmB/view?usp=drivesdk) and [My placement journey](https://youtu.be/tANtgKjtkvs?si=XmUct_2yH5MS0a9q)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
