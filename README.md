@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sidshe37@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dt9zWNAoNuc-C8k1cR1WFgX2WrtiKmmB/view?usp=drivesdk](https://drive.google.com/file/d/1dt9zWNAoNuc-C8k1cR1WFgX2WrtiKmmB/view?usp=drivesdk) and [My placement journey](https://youtu.be/tANtgKjtkvs?si=XmUct_2yH5MS0a9q)
+- 📄 Here's --> [My placement journey](https://youtu.be/tANtgKjtkvs?si=XmUct_2yH5MS0a9q)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
